@@ -1,7 +1,7 @@
 # Project Name 
 A server-rendered blog application built with Node.js, Express, MongoDB, and EJS, featuring admin authentication, post management, and search functionality.
 # Page Layout
-https://github.com/adityakumarsingh1702/Blogs/blob/main/landing%20page.png.png?raw=true
+![image alt](https://github.com/adityakumarsingh1702/Blogs/blob/main/landing%20page.png.png?raw=true)
 # Features
 
 Server-side rendered pages using EJS
